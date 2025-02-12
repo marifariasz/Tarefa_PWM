@@ -2,6 +2,10 @@
 
 Este repositório contém a implementação da tarefa sobre **Controle de Servomotor por PWM**, utilizando o **RP2040** e o simulador **Wokwi**. O objetivo é ajustar o ângulo do servomotor por meio de sinais PWM.  
 
+## 👷🏻‍♀️ Desenvolvedora
+**Mariana Farias da Silva**
+
+
 ## 📌 Objetivos  
 
 - Compreender e aplicar **modulação por largura de pulso (PWM)** no RP2040.  
@@ -44,4 +48,4 @@ Este repositório contém a implementação da tarefa sobre **Controle de Servom
 
 ## 🎥 Entrega  
 - **Código-fonte**: Disponível neste repositório.  
-- **Vídeo de demonstração**: [Link para o vídeo (YouTube/Drive)](URL_AQUI).  
+- **Vídeo de demonstração**: [Link para o vídeo (YouTube/Drive)](https://youtube.com/shorts/wIxscoSRYZ4).  
